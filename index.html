@@ -12,12 +12,18 @@
             margin: 0;
             padding: 20px;
             background-color: #f4f4f4;
+            color: #333;
         }
         #repo-content {
             background-color: #fff;
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1, h2, h3 {
+            color: #0366d6;
         }
         a {
             color: #0366d6;
@@ -25,6 +31,23 @@
         }
         a:hover {
             text-decoration: underline;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        code {
+            background-color: #f6f8fa;
+            padding: 2px 4px;
+            border-radius: 4px;
+            font-family: "Courier New", monospace;
+        }
+        pre {
+            background-color: #f6f8fa;
+            padding: 10px;
+            border-radius: 4px;
+            overflow-x: auto;
         }
     </style>
 </head>
@@ -34,7 +57,7 @@
     </div>
 
     <script>
-        // URL del archivo README.md en el repositorio
+        // URL del archivo README.md en tu repositorio
         const repoUrl = 'https://api.github.com/repos/Pitcher755/Pitcher755/contents/README.md';
 
         // Función para obtener y mostrar el contenido del README.md
@@ -44,8 +67,8 @@
                 const response = await fetch(repoUrl);
                 const data = await response.json();
 
-                // Decodificar el contenido en base64
-                const content = atob(data.content);
+                // Decodificar el contenido en base64 y forzar UTF-8
+                const content = new TextDecoder('utf-8').decode(Uint8Array.from(atob(data.content), c => c.charCodeAt(0)));
 
                 // Convertir el Markdown a HTML
                 const htmlContent = marked.parse(content);
@@ -60,11 +83,24 @@
                         window.open(event.target.href, '_blank');
                     }
                 });
+
+                // Ajustar el tamaño de la imagen de cabecera
+                const headerImage = document.querySelector('#repo-content img');
+                if (headerImage) {
+                    headerImage.style.maxWidth = '100%';
+                    headerImage.style.height = 'auto';
+                }
             } catch (error) {
                 console.error('Error al cargar el README:', error);
                 document.getElementById('repo-content').innerHTML = '<p>No se pudo cargar el contenido del repositorio.</p>';
             }
         }
+
+        // Cargar el README al iniciar la página
+        loadReadme();
+    </script>
+</body>
+</html>
 
         // Cargar el README al iniciar la página
         loadReadme();
