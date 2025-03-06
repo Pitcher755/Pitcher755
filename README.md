@@ -39,13 +39,14 @@ Mi transición de la hostelería al desarrollo no fue solo un cambio de carrera,
 
 ---
 
-## 🌐 ¡Conéctate conmigo!  
+## 🌐 ¡Conécta conmigo!  
 
 Si quieres saber más sobre mi trabajo, colaborar en algún proyecto o simplemente charlar sobre tecnología, no dudes en contactarme:  
 
 💼 **LinkedIn**: [Conéctate conmigo](https://www.linkedin.com/in/javier-fernandez-guerra-2a21b02b0/)  
 ✉ **Email**: [javi.fguerra@gmail.com](mailto:javi.fguerra@gmail.com)  
-🌍 **Web personal**: [www.queairespuestas.com](http://www.queairespuestas.com)  
+🌍 **Blog personal**: [www.queairespuestas.com](http://www.queairespuestas.com)  
+🐙 **GitHub**: [Pitcher755](https://github.com/Pitcher755)
 
 ---
 
