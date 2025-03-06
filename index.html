@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Repositorio - Pitcher755</title>
+    <!-- Librería marked.js para convertir Markdown a HTML -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        #repo-content {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        a {
+            color: #0366d6;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div id="repo-content">
+        Cargando contenido...
+    </div>
+
+    <script>
+        // URL del archivo README.md en tu repositorio
+        const repoUrl = 'https://api.github.com/repos/Pitcher755/Pitcher755/contents/README.md';
+
+        // Función para obtener y mostrar el contenido del README.md
+        async function loadReadme() {
+            try {
+                // Hacer la solicitud a la API de GitHub
+                const response = await fetch(repoUrl);
+                const data = await response.json();
+
+                // Decodificar el contenido en base64
+                const content = atob(data.content);
+
+                // Convertir el Markdown a HTML
+                const htmlContent = marked.parse(content);
+
+                // Mostrar el contenido en el div
+                document.getElementById('repo-content').innerHTML = htmlContent;
+
+                // Redirigir al usuario a GitHub al hacer clic en enlaces
+                document.getElementById('repo-content').addEventListener('click', (event) => {
+                    if (event.target.tagName === 'A') {
+                        event.preventDefault();
+                        window.open(event.target.href, '_blank');
+                    }
+                });
+            } catch (error) {
+                console.error('Error al cargar el README:', error);
+                document.getElementById('repo-content').innerHTML = '<p>No se pudo cargar el contenido del repositorio.</p>';
+            }
+        }
+
+        // Cargar el README al iniciar la página
+        loadReadme();
+    </script>
+</body>
+</html>
