@@ -1,58 +1,82 @@
 ![Cabecera](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBeeRJ32uBbXPmeDWJqMj5xBs6Nw16xCRjy7XFCu-z4rf-BGKKbo7I5CpnKKfK-_A9ipxpDWXCcRsu6Obbq3eOioFVFJtXEIR5JP1LO_j4YtQsE8N4EXKNo9rZWWY7CXedZO2x1bCooGMoUE9FxGoHIyM2GgC-VyLLn-9rnSAUYs26g0fukAvyFUU2IYsc/s16000/Bienvenid@s!!.png)
 
-# ¡Hola, soy Javier Fernández! 👋  
-### Estudiante de 2º año de Desarrollo de Aplicaciones Multiplataforma  
+# 👋 ¡Hola! Soy Javier Fernández
+## Desarrollador de Software | Flutter & Firebase | Java Backend | Apasionado del aprendizaje
 
 ---
 
-## 👨‍💻 Sobre mí  
+## 🧭 Sobre mí
 
-¡Hola! Soy **Javier Fernández**, un apasionado de la tecnología en proceso de convertirme en **Desarrollador de Aplicaciones Multiplataforma**. Antes de adentrarme en el mundo del desarrollo, trabajé durante años en el sector de la hostelería, donde lideré equipos de hasta 30 personas. Esta experiencia me enseñó habilidades clave como la **gestión de equipos**, la **resolución de problemas bajo presión** y la **comunicación efectiva**.  
+Soy **Javier Fernández**, desarrollador de software en formación continua, con mentalidad analítica, creativa y orientada a soluciones.
 
-Sin embargo, llegó un momento en el que decidí dar un giro a mi carrera para perseguir mi verdadera pasión: **la tecnología**. Aunque siempre fui un entusiasta de la informática, nunca me atreví a convertirla en mi profesión. Hoy, estoy feliz de haber tomado la decisión de reinventarme y dedicarme al desarrollo de software.  
+Desde que descubrí mi vocación por la tecnología, he estado desarrollando aplicaciones y adquiriendo experiencia práctica en entornos reales. Me apasiona crear soluciones útiles, funcionales y bien diseñadas, poniendo especial atención tanto en la lógica como en la experiencia del usuario.
 
-Actualmente, estoy enfocado en aprender y aplicar tecnologías como **Java**, **Python**, **Kotlin**, **Swift**, **JavaScript**, **HTML5** y **CSS**. Me encanta trabajar en equipo, compartir ideas y colaborar en proyectos innovadores que marquen la diferencia.  
+Me destaco por mi constancia, curiosidad, capacidad de adaptación y compromiso con la mejora continua. Actualmente enfocado en el desarrollo **multiplataforma con Flutter**, el ecosistema **Firebase**, y el backend profesional con **Java (Spring Boot)** y **Python**.
 
 ---
 
-## 🛠 Tecnologías que utilizo  
+## 🛠️ Tecnologías que utilizo
 
-### 🎨 **Frontend**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 📱 **Mobile & Cross-Platform**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### ⚙ **Backend**  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+### 💻 **Backend & Bases de Datos**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🔧 **Herramientas**  
+### 🌐 **Frontend Web**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚙️ **Herramientas y DevOps**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ---
 
-## 🌟 ¿Por qué elegí el desarrollo?  
+## 📚 Formación
 
-Mi transición de la hostelería al desarrollo no fue solo un cambio de carrera, sino una decisión para seguir mi pasión por la tecnología. Me motiva la idea de crear soluciones que impacten positivamente en la vida de las personas y disfruto cada día aprendiendo algo nuevo.  
-
----
-
-## 🌐 ¡Conécta conmigo!  
-
-Si quieres saber más sobre mi trabajo, colaborar en algún proyecto o simplemente charlar sobre tecnología, no dudes en contactarme:  
-
-💼 **LinkedIn**: [Conéctate conmigo](https://www.linkedin.com/in/javier-fernandez-guerra-2a21b02b0/)  
-✉ **Email**: [javi.fguerra@gmail.com](mailto:javi.fguerra@gmail.com)  
-🌍 **Blog personal**: [www.queairespuestas.com](http://www.queairespuestas.com)  
-🐙 **GitHub**: [Pitcher755](https://github.com/Pitcher755)
+🎓 Técnico Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+🧠 En continuo aprendizaje con proyectos propios y formación complementaria en:  
+- Flutter & Firebase
+- Arquitectura limpia
+- Git y control de versiones
+- Spring Boot
+- APIs RESTful
+- Pruebas automatizadas
 
 ---
 
-### 📌 **Próximos pasos**  
-Sigo en constante aprendizaje y estoy emocionado por los nuevos retos que el mundo del desarrollo me depare. ¡No dudes en seguirme para ver mis avances y proyectos!  
+## 💼 ¿Qué busco?
+
+🚀 Oportunidades de crecimiento como desarrollador junior  
+🤝 Colaboraciones en proyectos con propósito  
+🏠 Preferencia por **trabajo remoto o híbrido**  
+💡 Equipos que valoren el aprendizaje, la innovación y la empatía
 
 ---
 
+## 📫 ¡Conectemos!
+
+💼 [LinkedIn](https://www.linkedin.com/in/javier-fernandez-guerra-2a21b02b0/)  
+📬 [Email](mailto:javi.fguerra@gmail.com)  
+🌍 [Blog personal](http://www.queairespuestas.com)  
+🐙 [GitHub](https://github.com/Pitcher755)
+
+---
+
+## 🌱 Próximos pasos
+
+Estoy trabajando en proyectos personales que compartiré próximamente.  
+¡Gracias por pasarte por aquí! Si te interesa lo que hago, no dudes en seguirme.  
+Estoy abierto a aprender, colaborar y sumar valor donde pueda. 🙌
+
+---
 
