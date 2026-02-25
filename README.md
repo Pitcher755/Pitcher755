@@ -80,6 +80,7 @@ I am a **Software Engineer** finalizing a **Master's Degree in AI Development**.
 A hybrid platform designed for developers and architects that solves the "blank page syndrome".
 - **How it works:** Orchestrates software design step-by-step using a 100% offline RAG (Retrieval-Augmented Generation) flow.
 - **Achievement:** Automated generation of 24 technical documents (C4 Diagrams, Data Models, UI Flows) in under 15 minutes while respecting corporate privacy.
+- 📊 **[Presentation web (GitHub Pages)](https://pitcher755.github.io/soft-architect-ai/)**
 
 ---
 
@@ -98,6 +99,7 @@ Soy un **Software Engineer** finalizando un **Máster en Desarrollo con IA**, co
 Una plataforma híbrida diseñada para desarrolladores y arquitectos que soluciona el "síndrome del lienzo en blanco". 
 - **Cómo funciona:** Orquesta el diseño de software paso a paso mediante un flujo RAG (Retrieval-Augmented Generation) 100% offline.
 - **Logro:** Generación automatizada de 24 documentos técnicos (Diagramas C4, Modelos de Datos, UI Flows) en menos de 15 minutos respetando la privacidad corporativa.
+- 📊 **[Presentation web (GitHub Pages)](https://pitcher755.github.io/soft-architect-ai/)**
 
 ---
 
